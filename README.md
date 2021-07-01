@@ -1,5 +1,5 @@
 # IrpAddin
-An addins for Rstudio for adding some special characters (tilde, quote,...) on Windows
+An addin for Rstudio for adding some special characters (tilde, quote,...) on Windows
 
 Install on R using
 
