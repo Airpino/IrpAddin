@@ -1,0 +1,9 @@
+Name: Insert tilde
+Description: Inserts tilde at the cursor position.
+Binding: insertTi
+Interactive: false
+
+Name: Insert sigle quo
+Description: Inserts single quo at the cursor position.
+Binding: insertQuo
+Interactive: false
