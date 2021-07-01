@@ -1,0 +1,16 @@
+Package: IrpAddin
+Type: Package
+Title: Adds some special chars (tilde, quot)
+Version: 0.1.0
+Author: Antonio Irpino
+Maintainer: Antonio Irpino <antonio.irpino@unicampania.it>
+Description: Addins for inserting special chars
+    like tilde, single quotation.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 3.2)
+Imports: 
+    rstudioapi
